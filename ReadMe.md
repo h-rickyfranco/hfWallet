@@ -24,5 +24,22 @@ Este é o repositório do projeto HF Wallet, uma aplicação de carteira virtual
 
 1. Clone este repositório em sua máquina local:
 
-```bash
-git clone https://github.com/seu-usuario/hf-wallet.git
+``` 
+git clone git@github.com:h-rickyfranco/hfWallet.git
+```
+2. Navegue até o diretório do projeto:
+```Navegando até o diretório
+cd hf-wallet
+```
+3. Instale as dependências do projeto:
+```instalando dependências
+npm install
+```
+Inicie a aplicação:
+bash
+Copy code
+npm run dev
+A aplicação HF Wallet será executada localmente e estará disponível em http://localhost:3000 em seu navegador.
+
+Contribuição
+Contribuições para a melhoria deste projeto são bem-vindas. Sinta-se à vontade para abrir problemas (issues) e enviar pull requests com melhorias.
