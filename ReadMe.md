@@ -35,11 +35,11 @@ cd hf-wallet
 ```instalando dependências
 npm install
 ```
-Inicie a aplicação:
-bash
-Copy code
+## Inicie a aplicação:
+```
 npm run dev
+```
 A aplicação HF Wallet será executada localmente e estará disponível em http://localhost:3000 em seu navegador.
 
-Contribuição
+## Contribuição
 Contribuições para a melhoria deste projeto são bem-vindas. Sinta-se à vontade para abrir problemas (issues) e enviar pull requests com melhorias.
